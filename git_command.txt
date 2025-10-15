@@ -1,21 +1,21 @@
-1) git init
+1) git init  (to integrate / start)
 
-2)git config --global user.name "Your Name"
+2)git config --global user.name "Your Name" (Enter name first time)
 
-3)git config --global user.email "your.email@example.com"
+3)git config --global user.email "your.email@example.com" (Enter Email)
 
-4)git add .
+4)git add . (Add All Files)
 
-5)git status
+5)git status 
 
-6)git commit -m "Demo"
+6)git commit -m "Demo" (Changes that made will be stored)
 
-7)git branch -M main
+7)git branch -M main 
 
-8)git remote add origin https://github.com/gurjeetsinghmundra/example11.git
+8)git remote add origin https://github.com/gurjeetsinghmundra/example11.git (repo link)
 
-9)git push -u origin main
+9)git push -u origin main  (to upload)
 
-10)git pull
+10)git pull (to download)
 
 
